@@ -78,7 +78,7 @@ L-Systems are unique because it relates to different code language grammar. Ther
 
 <br><br>
 ### 💻 Graphics
-This last section is like a catch-all to all the miscellaneous stuff we did throughout the year. I got enlightenment on how games develop and produce images from code. For example, in plant images in video games that have an open world, code could create many plants within that game rather than a pre-saved image of the plant. The sketch link I included is a concise code snippet that creates a 3D-looking tunnel effect. When you play games of how much stuff, even visual, is developed from code, you would be surprised. Overall really cool stuff. You can move your cursor around and get an enjoyable tunnel effect when running the sketch.
+This last section is like a catch-all to all the miscellaneous stuff we did throughout the year. I got enlightenment on how games develop and produce images from code. For example, in plant images in video games that have an open world, code could create many plants within that game rather than a pre-saved image of the plant. The sketch link I included is a concise code snippet that creates a 3D-looking tunnel effect. When you play games of how much stuff, even visual, is developed from code, you would be surprised. Overall really cool stuff. When running the sketch, you can move your cursor around and get an enjoyable tunnel effect.
 
 <h4 align="center">
 	<a align="center" href="https://editor.p5js.org/gutkneet/sketches/ltyTnMz8L">➡ Click Here To Experiment ⬅</a>
