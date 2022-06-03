@@ -12,8 +12,8 @@
 	<tr>
 		<td>
 			<a href="#-about-the-class">🎓 About The Class</a><br><br>
-			<a href="#">ℹ About The Sketches</a><br><br>
-			<a href="#">🎨 The Different Sketches</a>
+			<a href="#ℹ-about-the-sketches">ℹ About The Sketches</a><br><br>
+			<a href="#-the-different-sketches">🎨 The Different Sketches</a>
 			<ul>
 				<li><a href="#-convex-hulls">🎁 Convex Hulls</a></li>
 				<li><a href="#-julia-sets">🔂 Julia Sets</a></li>
