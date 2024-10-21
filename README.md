@@ -1,5 +1,5 @@
 <h6 >
-	<a href="https://github.com/ethangutknecht">↩ Back To Ethan Gutknecht's Profile</a>
+	<a href="https://github.com/ethangtkt">↩ Back To ethangtkt's Profile</a>
 </h6>
 
 <h1 align="center">➗ Visual Calculations</h1><br>
@@ -98,13 +98,13 @@ This last section is like a catch-all to all the miscellaneous stuff we did thro
 - - - -
 
 <h6 align="center">
-	<a href="https://github.com/ethangutknecht">↩ Back To Ethan Gutknecht's Profile</a>
+	<a href="https://github.com/ethangtkt">↩ Back To ethangtkt's Profile</a>
 </h6>
 
 - - - -
 
 <h6 align="center">
-  Copyright © Ethan Gutknecht 2022
+  Copyright © ethangtkt 2022
 </h6>
 
 
